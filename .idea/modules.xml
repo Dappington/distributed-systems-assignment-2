@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aggregation Server/Aggregation Server.iml" filepath="$PROJECT_DIR$/Aggregation Server/Aggregation Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Content Server/Content Server.iml" filepath="$PROJECT_DIR$/Content Server/Content Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-systems-assignment-2.iml" filepath="$PROJECT_DIR$/distributed-systems-assignment-2.iml" />
+    </modules>
+  </component>
+</project>
